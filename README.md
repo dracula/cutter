@@ -6,13 +6,18 @@
 
 ## Install
 
+1. Star and clone this repository.
+2. Open Cutter and go to `Edit > Preferences > Appearance > Color Theme > Import (looks like the download button)`.
+3. Click the import button and select the `Dracula` from `Theme` in this repository.
+4. Voila! Welcome to the world of vampires.
+
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/x64dbg/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) | [![Lucas de França](https://github.com/luxonauta.png?size=100)](https://github.com/luxonauta) |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               | [Lucas de França](https://github.com/luxonauta)                                               |
+| [![CX330](https://github.com/CX330Blake.png?size=100)](https://github.com/CX330Blake)      |
+| ------------------------------------------------------------------------------------------ |
+| [CX330's GitHub](https://github.com/CX330Blake)<br />[CX330's Blog](https://blog.cx330.tw) |
 
 ## Community
 

@@ -1,19 +1,8 @@
-### [Foobar](https://foobar.com)
+### [Cutter](https://cutter.re/)
 
-#### Install using Git
+#### Install
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-```bash
-git clone https://github.com/dracula/foobar.git
-```
-
-#### Install manually
-
-Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/archive/main.zip) option and unzip them.
-
-#### Activating theme
-
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+1. Star and clone this repository.
+2. Open Cutter and go to `Edit > Preferences > Appearance > Color Theme > Import (looks like the download button)`.
+3. Click the import button and select the `Dracula` from `Theme` in this repository.
+4. Voila! Welcome to the world of vampires.
